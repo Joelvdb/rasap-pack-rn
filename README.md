@@ -2,6 +2,6 @@
 
 -educational materials for "Rasap course" in the IDF.\
 
-#Demo \
+# Demo 
 
 ![Demo](/rasap.gif)
